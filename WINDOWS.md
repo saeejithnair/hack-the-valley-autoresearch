@@ -18,8 +18,8 @@ Close and reopen PowerShell after installation. If WinGet is unavailable, use th
 ## 2. Clone the workshop
 
 ```powershell
-git clone https://github.com/saeejithnair/hack-the-valley-autoresearch-workshop.git
-cd hack-the-valley-autoresearch-workshop
+git clone https://github.com/saeejithnair/hack-the-valley-autoresearch.git
+cd hack-the-valley-autoresearch
 ```
 
 The clone already contains an initial Git commit. Before the agent exercise, configure your Git name and email if needed:

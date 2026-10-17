@@ -7,8 +7,8 @@ Run a small byte-level language model on a laptop CPU, try one configuration cha
 Install [uv](https://docs.astral.sh/uv/getting-started/installation/) and Git, then run:
 
 ```sh
-git clone https://github.com/saeejithnair/hack-the-valley-autoresearch-workshop.git
-cd hack-the-valley-autoresearch-workshop
+git clone https://github.com/saeejithnair/hack-the-valley-autoresearch.git
+cd hack-the-valley-autoresearch
 uv sync --python 3.12 --locked
 uv run jupyter lab Live-Workshop.ipynb
 ```
